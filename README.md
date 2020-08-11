@@ -1,2 +1,2 @@
 # Sign-Language-Interpreter
-Provides character by Character interpretation of american sign language hand gestures
+Provides character by character interpretation of American Sign Language hand gestures.
